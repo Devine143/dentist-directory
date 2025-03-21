@@ -1,7 +1,7 @@
-import React from 'react';
-import { useParams } from 'react-router-dom';
-import { MapPin, Phone, Globe, Star } from 'lucide-react';
-import dentistsData from '../data/dentists.json';
+import React from "react";
+import { useParams } from "react-router-dom";
+import { MapPin, Phone, Globe, Star } from "lucide-react";
+import dentistsData from "../data/dentists.json";
 
 const DentistDetail = () => {
   const { slug } = useParams();
@@ -9,14 +9,14 @@ const DentistDetail = () => {
 
   if (!dentist) {
     return (
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <p>Dentist not found</p>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <p className="text-center">Dentist not found</p>
       </div>
     );
   }
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="bg-white shadow-sm rounded-lg overflow-hidden">
         <div className="p-6">
           <div className="flex items-start justify-between">
@@ -80,7 +80,9 @@ const DentistDetail = () => {
             <div className="mt-4 space-y-6">
               {dentist.reviews.positive.text && (
                 <div className="bg-green-50 p-4 rounded-lg">
-                  <p className="text-green-800">{dentist.reviews.positive.text}</p>
+                  <p className="text-green-800">
+                    {dentist.reviews.positive.text}
+                  </p>
                   <div className="mt-2 flex items-center">
                     <Star className="h-4 w-4 text-green-600" />
                     <span className="ml-1 text-sm text-green-600">
@@ -91,7 +93,9 @@ const DentistDetail = () => {
               )}
               {dentist.reviews.negative.text && (
                 <div className="bg-red-50 p-4 rounded-lg">
-                  <p className="text-red-800">{dentist.reviews.negative.text}</p>
+                  <p className="text-red-800">
+                    {dentist.reviews.negative.text}
+                  </p>
                   <div className="mt-2 flex items-center">
                     <Star className="h-4 w-4 text-red-600" />
                     <span className="ml-1 text-sm text-red-600">
