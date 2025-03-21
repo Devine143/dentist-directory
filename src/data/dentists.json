@@ -1,0 +1,712 @@
+{
+  "metadata": {
+    "title": "Cape Town Dentist Directory",
+    "description": "A comprehensive directory of dentists in Cape Town, South Africa",
+    "generated_at": "2025-03-21 08:08:44",
+    "total_entries": 20
+  },
+  "dentists": [
+    {
+      "id": "0",
+      "name": "Dr JJ Serfontein | JJS DENTISTRY CAPE TOWN",
+      "slug": "dr-jj-serfontein-jjs-dentistry-cape-town",
+      "contact": {
+        "phone": 27214245172,
+        "website": "https://www.jjteeth.co.za"
+      },
+      "location": {
+        "address": "Waterway House North, 3 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.9,
+        "total_ratings": 275
+      },
+      "reviews": {
+        "positive": {
+          "text": "Best practice. Its never nice a dentist appointment. But I actually don't mind going when they are in charge. Extra efficient, high technology. I trust them fully and really do the best service. When looking for a dentist. Don't think twice.",
+          "display": "Best practice. Its never nice a dentist appointment. But I actually don't mind going when they are in charge. Extra efficient, high technology. I t... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Dr JJ Serfontein at JJS Dentistry offers premier dental care with a focus on cosmetic dentistry, dental surgery, and general dentistry services. With a commitment to timeless dental craftsmanship, the practice emphasizes top-notch care using advanced treatments and materials for lasting results. Experience state-of-the-art dental services and personalized care at JJS Dentistry for all your oral health needs."
+    },
+    {
+      "id": "1",
+      "name": "Enamel Clinic",
+      "slug": "enamel-clinic",
+      "contact": {
+        "phone": 27214182048,
+        "website": "https://enamel.clinic"
+      },
+      "location": {
+        "address": "3rd Floor, De Waterkant Centre, 9 Somerset Rd, De Waterkant, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.9,
+        "total_ratings": 390
+      },
+      "reviews": {
+        "positive": {
+          "text": "I've always been absolutely petrified of dentists and needles, but Dr. Huson has completely changed my perspective. From the moment you walk in, he makes you feel comfortable and at ease. His approach is nothing short of incredible—he ensures that the injections and procedures are as painless as possible. I barely felt any discomfort! His attention to detail and dedication to providing top-quality care is truly amazing. I'm so grateful to have found such a skilled and compassionate dentist. His team is also amazing and always there for you, ensuring you are comfortable and that everything runs smoothly. Highly recommend!!",
+          "display": "I've always been absolutely petrified of dentists and needles, but Dr. Huson has completely changed my perspective. From the moment you walk in, he... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Enamel Clinic in Cape Town offers exceptional general dental services with a focus on prevention to maintain excellent dental health. As South Africa's first Digital Smile Design (DSD) clinic, their pioneering science-led approach ensures precise and effective outcomes for smile rehabilitation. With a team of highly qualified specialists and dentists dedicated to providing personalized care, Enamel Clinic aims to help every patient achieve a healthy, beautiful smile through a premium dental clinic experience."
+    },
+    {
+      "id": "2",
+      "name": "OptiSmile Advanced Dentistry and Implant Centre",
+      "slug": "optismile-advanced-dentistry-and-implant-centre",
+      "contact": {
+        "phone": 27877026886,
+        "website": "https://optismile.co.za"
+      },
+      "location": {
+        "address": "Suite 303, The Point Mall Shopping Centre in Sea Point, 76 Regent Rd, Sea Point, Cape Town, 8005, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8005
+      },
+      "services": [
+        "implants",
+        "orthodontics"
+      ],
+      "ratings": {
+        "overall_rating": 4.9,
+        "total_ratings": 387
+      },
+      "reviews": {
+        "positive": {
+          "text": "I had an outstanding experience with OptiSmile! The personal service I received from Verona and Dr. Clifford was truly exceptional. From start to finish, my Invisalign journey was far better than I could have ever expected. Their knowledge and expertise ensured that I had complete confidence in the process—there was never a moment of uncertainty. The team at OptiSmile is incredibly professional, well-informed, and genuinely cares about their patients. I've already recommended them to friends and family and will continue to do so. Thank you, Dr. Clifford, Verona, and the entire OptiSmile team, for making this such a smooth and positive experience!",
+          "display": "I had an outstanding experience with OptiSmile! The personal service I received from Verona and Dr. Clifford was truly exceptional. From start to f... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "OptiSmile Advanced Dentistry and Implant Centre in Cape Town is a leading dental practice specializing in implants and orthodontics. With a focus on advanced techniques and personalized care, they provide top-notch services to help patients achieve optimal oral health. Visit OptiSmile in Cape Town for expert dental care and transformative smile solutions."
+    },
+    {
+      "id": "3",
+      "name": "Hope Street Dental Clinic",
+      "slug": "hope-street-dental-clinic",
+      "contact": {
+        "phone": 27214654017,
+        "website": "http://www.westerncape.gov.za"
+      },
+      "location": {
+        "address": "Hope St, Cape Town City Centre, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "surgical"
+      ],
+      "ratings": {
+        "overall_rating": 4.6,
+        "total_ratings": 77
+      },
+      "reviews": {
+        "positive": {
+          "text": "Service is great! From the front staff to the receptionist to the doctor, everything is well taken care of and they are very organized and professional. The only thing is you have to be there earliest 5am or 5:30am to claim your slot for assistance as they only help a certain amount of patients a day and there are only 2 dentists available on certain days of the week. Otherwise, everything is great! For anyone who is requiring fillings and are uncertain: They do fillings at this clinic, however you have to see the dentist for a consultation first to see what needs to be done and how bad the issue is and thereafter they will give you an appointment. :)",
+          "display": "Service is great! From the front staff to the receptionist to the doctor, everything is well taken care of and they are very organized and professi... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "Hello all. I don't ever leave reviews but I feel it necessary in this case. I found that the waiting process was pretty quick. I'd suggest you come early at about four a.m to book you slot and then come again a bit later so you can get service quick. However I would not recommend going as I got a tooth extracted today. It was one of the most painful experiences. There was no assurance of what to expect. I was told to not scream or grab by the nurse who showed me no support. The tooth was practically ripped out. They put a numbing injection but I felt every ounce of pressure when my tooth got taken out. Which apparently, you are well not supposed to feel anything when you get an extraction and it's your right to ask for more numbing solution. I was unaware of this as it was my first time. Everything else was smooth sailing but the patient care was abysmal at best. I will never go to a government facility for that. I would rather just find the money to pay for proper care",
+          "display": "Hello all. I don't ever leave reviews but I feel it necessary in this case. I found that the waiting process was pretty quick. I'd suggest you come... [2.0★]",
+          "rating": 2.0
+        }
+      },
+      "description": "Located in Cape Town, Cape Town, Hope Street Dental Clinic specializes in surgical dental services. With a commitment to providing high-quality care, they prioritize patient comfort and satisfaction. Contact them Monday to Friday from 8 am to 5 pm at 0860 142 142 for expert dental care in a welcoming environment."
+    },
+    {
+      "id": "4",
+      "name": "Dental Studio - Dr Beilinsohn",
+      "slug": "dental-studio-dr-beilinsohn",
+      "contact": {
+        "phone": 27214343663,
+        "website": "http://www.dentalstudiocapetown.co.za"
+      },
+      "location": {
+        "address": "369 Main Rd, Sea Point, Cape Town, 0001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 1
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.7,
+        "total_ratings": 96
+      },
+      "reviews": {
+        "positive": {
+          "text": "Both dentists are excellent! From their bedside manner to making me feel completely at ease, they truly stand out. I highly recommend seeing Dr. Beilinsohn and Dr. Nigel. There's something special about finding people who genuinely love what they do! I'll definitely be back :)",
+          "display": "Both dentists are excellent! From their bedside manner to making me feel completely at ease, they truly stand out. I highly recommend seeing Dr. Be... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Sea Point, Cape Town, Dental Studio - Dr. Beilinsohn is a reputable dental practice with two generations of family dentists serving the community. Led by Dr. B Beilinsohn, a member of the South African Dental Association for 20 years, this practice specializes in reconstructive, restorative, and preventative dentistry. Offering a comprehensive range of services including cosmetic dentistry, dental implants, and root canal therapy, they are known for their expertise and commitment to delivering top-notch oral health care in Cape Town."
+    },
+    {
+      "id": "5",
+      "name": "The Cosmetic and Dental Emporium V&A Waterfront",
+      "slug": "the-cosmetic-and-dental-emporium-v-a-waterfront",
+      "contact": {
+        "phone": 27214182668,
+        "website": "https://capetowndentist.co.za"
+      },
+      "location": {
+        "address": "Suite 7112, Victoria Wharf Shopping Centre, Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "",
+        "postal_code": 7112
+      },
+      "services": [
+        "cosmetic"
+      ],
+      "ratings": {
+        "overall_rating": 4.9,
+        "total_ratings": 336
+      },
+      "reviews": {
+        "positive": {
+          "text": "Absolutely fantastic place that I've been lucky enough to be using for a few years now. Dr Pierre and Dr Zak are both equally fantastic and have the best bedside manner. Natasha on the front desk has always been so helpful and accommodating also. It's my first port of call on a visit to Cape Town and 1/2 the price of the UK.",
+          "display": "Absolutely fantastic place that I've been lucky enough to be using for a few years now. Dr Pierre and Dr Zak are both equally fantastic and have th... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located at the V&A Waterfront in Cape Town, The Cosmetic and Dental Emporium is a premier dental practice specializing in cosmetic dentistry and facial aesthetics. Led by industry leaders Dr. Zak Schabort, Dr. Wim de Beer, and Dr. Pierre Rossouw, the practice combines cutting-edge technology with over a decade of experience to provide unparalleled care. Their holistic approach focuses on oral health, functionality, and aesthetics to deliver personalized treatments tailored to each patient's unique needs."
+    },
+    {
+      "id": "6",
+      "name": "All in One Dental Clinic",
+      "slug": "all-in-one-dental-clinic",
+      "contact": {
+        "phone": 27214397696,
+        "website": ""
+      },
+      "location": {
+        "address": "303 Adelphi Centre, Sea Point Main Road, Sea Point, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.8,
+        "total_ratings": 4
+      },
+      "reviews": {
+        "positive": {
+          "text": "Dr Charles Geffen has been my families go to dentist for years. He is friendly and very careful when doing a procedure. Great overall service from the other staff members as well.",
+          "display": "Dr Charles Geffen has been my families go to dentist for years. He is friendly and very careful when doing a procedure. Great overall service from ... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "All in One Dental Clinic in Cape Town offers comprehensive general dental services to help patients achieve optimal oral health. Conveniently located in Cape Town, their experienced team provides top-notch care in a modern and welcoming environment. Book an appointment today for all your dental needs at All in One Dental Clinic."
+    },
+    {
+      "id": "7",
+      "name": "Paradise Road Dental Practice",
+      "slug": "paradise-road-dental-practice",
+      "contact": {
+        "phone": 27216862200,
+        "website": "https://paradisedental.co.za"
+      },
+      "location": {
+        "address": "17 Paradise Rd, Newlands, Cape Town, 7700, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 7700
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.7,
+        "total_ratings": 145
+      },
+      "reviews": {
+        "positive": {
+          "text": "Dr Patel is so gentle, kind and compassionate. She puts her patients at ease and is conservative in her approach. As someone who has extreme anxiety surrounding dental visits, the has been an absolutely, incredible visit. Thank you Paradise Road Dental Practice for the exceptional service as always.",
+          "display": "Dr Patel is so gentle, kind and compassionate. She puts her patients at ease and is conservative in her approach. As someone who has extreme anxiet... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Paradise Road Dental Practice focuses on providing optimal oral health care in a safe and friendly environment. They aim to make each patient feel at ease and offer general dental services. While not directly dealing with medical aids, they provide necessary documentation for patients to claim back from their providers and offer various payment options, including debit cards, credit cards, and dental finance. Additionally, they provide 24-hour emergency services, ensuring immediate help for dental issues like chipped teeth or toothaches, with no insurance required."
+    },
+    {
+      "id": "8",
+      "name": "Dentist on Main Rondebosch",
+      "slug": "dentist-on-main-rondebosch",
+      "contact": {
+        "phone": 27216855927,
+        "website": "http://www.dentistonmain.co.za"
+      },
+      "location": {
+        "address": "41 Main Rd, Rondebosch, Cape Town, 7700, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 7700
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.4,
+        "total_ratings": 265
+      },
+      "reviews": {
+        "positive": {
+          "text": "I have been visiting Dentist on Main Rondebosch since 2022 and i should say it has been an amazing experience. My dental health has magnificently improved all because of Dr Kalan and his wonderful team😊. From my fillings, to the teeth cleanings and check-ups i have done over the years, I should say it's been a job well done. Thank you for the great service team!!!",
+          "display": "I have been visiting Dentist on Main Rondebosch since 2022 and i should say it has been an amazing experience. My dental health has magnificently i... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Dentist on Main Rondebosch in Cape Town offers a range of general dental services provided by qualified professionals. Patient education is a priority at this practice, where a friendly and efficient team strives to make each visit a pleasant and pain-free experience. With a focus on preventative care and fair pricing, Dentist on Main Rondebosch is a top choice for quality dental care in Cape Town."
+    },
+    {
+      "id": "9",
+      "name": "Molteno Dental Practice Cape Town",
+      "slug": "molteno-dental-practice-cape-town",
+      "contact": {
+        "phone": 27214264393,
+        "website": "https://moltenodental.co.za"
+      },
+      "location": {
+        "address": "Dental Practice, 12 Molteno Rd, Oranjezicht, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.6,
+        "total_ratings": 73
+      },
+      "reviews": {
+        "positive": {
+          "text": "Beautiful Dental practise set in the heart of Cape Town. I was warmly welcomed at reception and well cared for during my appointment at Molteno Dental Practice. I can definitely recommend this practice! Thanks Ladies",
+          "display": "Beautiful Dental practise set in the heart of Cape Town. I was warmly welcomed at reception and well cared for during my appointment at Molteno Den... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "Since the practice was taken over by Dr De Jager the service has been terrible. Changes appointments; don't get back to you; don't answer their phones; and excuses after excuses. After 14 years of supporting Dr Strydom, I have decided to find a new practice, as I can no longer support a practice that offers a service and cares for their patients.",
+          "display": "Since the practice was taken over by Dr De Jager the service has been terrible. Changes appointments; don't get back to you; don't answer their pho... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Located in Cape Town, Molteno Dental Practice Cape Town focuses on preserving your natural teeth and promoting overall oral health through preventative and conservative dentistry. With a philosophy centered on ensuring your teeth last a lifetime, they offer services such as checkups, white fillings, root canal treatments, and dental implants. Dr. Strydom's expertise and advanced technology, like the Cerec machine for ceramic restorations, ensure efficient and pain-free dental care, earning praise from patients of all ages."
+    },
+    {
+      "id": "10",
+      "name": "SmilePro Dental Surgery",
+      "slug": "smilepro-dental-surgery",
+      "contact": {
+        "phone": 27614570655,
+        "website": "https://smileprodental.co.za"
+      },
+      "location": {
+        "address": "2 Riebeek St, Foreshore, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "surgical",
+        "endodontics"
+      ],
+      "ratings": {
+        "overall_rating": 4.1,
+        "total_ratings": 28
+      },
+      "reviews": {
+        "positive": {
+          "text": "The best dentist in the CBD . If I could put more stars I would. Dr Ramkissoon puts you at ease and you can feel you are in good hands. Highly recommended 👌🏾👌🏾. Keep up the good work you amazing team",
+          "display": "The best dentist in the CBD . If I could put more stars I would. Dr Ramkissoon puts you at ease and you can feel you are in good hands. Highly reco... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "Couldn't be more aggravated at the service given. Made an appointment on Friday 19 July using their WhatsApp phone number and everything was confirmed with all of the documents sent. I decided to go in person (because it's the closest dentist from my place of residence currently) to check and confirm if my appointment is all set and I'll be in for a consultation to be told they don't see any appointment done but they can see on their WhatsApp everything being confirmed and had to reschedule ( keep in mind I'm missing my lectures, I'm missing work). Rescheduled the appointment for Wednesday 29 July at 1:30 pm and upon arrival I was told the Dentist needs to cancel the appointment because she is stuck in Tygerberg and won't make it. I went to a different walk in dentist for consultation and X-Ray and was told a root canal needed to be done but they don't provide the service. I went back to Smilepro to book an appointment for a root canal and all details were confirmed for Monday 29 July only to be called in the morning of 29 July to be told that my medical aid hasn't confirmed by which I called my medical aid and they insisted NO AUTHORISATION WAS REQUESTED and made a 3 way call with Smilepro and they insist they sent the details and medical aid provider asked for their working email so that they can authorise everything and Smilepro DENIED that they have an email for my appointment to be set.",
+          "display": "Couldn't be more aggravated at the service given. Made an appointment on Friday 19 July using their WhatsApp phone number and everything was confir... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Located in the heart of Cape Town, SmilePro Dental Surgery, led by Dr. Raakhee Ramkissoon, offers expert surgical and endodontic services. Dr. Ramkissoon's commitment to community care is evident through her work at Tygerberg Hospital, where she treats special needs and elderly patients. With a focus on family-centered care and a special interest in prosthodontics, SmilePro Dental Surgery is dedicated to restoring comfort and confidence through affordable, quality dental treatments. Join them on your journey to a new smile."
+    },
+    {
+      "id": "11",
+      "name": "Cape Town Dental",
+      "slug": "cape-town-dental",
+      "contact": {
+        "phone": 27210233950,
+        "website": "http://mycapetowndental.co.za"
+      },
+      "location": {
+        "address": "4 Loop St, Foreshore, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.5,
+        "total_ratings": 8
+      },
+      "reviews": {
+        "positive": {
+          "text": "I had an amazing experience! From the moment I called to make the appointment, the reception staff was incredibly friendly, professional, and efficient. They made the booking process so easy and ensured all my questions were answered. When I arrived, I was warmly welcomed, and the atmosphere in the office was calm and inviting. The dentist was exceptional—thorough, gentle, and very knowledgeable. They explained everything to me in detail, which really put me at ease. The results of my consultation and treatment were beyond my expectations, and I couldn't be happier with the care I received. I highly recommend anyone looking for a dentist who truly cares about their patients. The entire team is outstanding especially Wafeeqah and Mpumi, and they've gained a loyal patient in me!",
+          "display": "I had an amazing experience! From the moment I called to make the appointment, the reception staff was incredibly friendly, professional, and effic... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "If I could write a 0 star review I would have. Unfortunately I had a very bad experience today. The light in the dentist room did not work. The drills did not work. The whole office seemed quite frantic and the dentist kept on talking to the secretary in the other room once I was on the dentist chair. After my jaw was anaesthetised, I had to ask whether it was a bad time and was sent away without having the filling put in. My appointment was also moved from last week to this week. Unfortunately, I have to strongly advise anyone against going here. One positive is that the dentist and secretary are both very friendly.",
+          "display": "If I could write a 0 star review I would have. Unfortunately I had a very bad experience today. The light in the dentist room did not work. The dri... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Cape Town Dental in Cape Town offers expert general dental services in a warm and welcoming environment. Their experienced team provides a comprehensive range of treatments, from routine checkups to advanced restorative procedures like crowns and dentures. With a focus on patient comfort and preventive care, Cape Town Dental ensures that everyone can achieve and maintain optimal oral health."
+    },
+    {
+      "id": "12",
+      "name": "Kromboom Dental Centre",
+      "slug": "kromboom-dental-centre",
+      "contact": {
+        "phone": 27216969428,
+        "website": "https://kromboomdental.co.za"
+      },
+      "location": {
+        "address": "Corner Kromboom & Burwood Rds, Kromboom Dental Centre, Rondebosch East, Cape Town, 7780, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 7780
+      },
+      "services": [
+        "emergency"
+      ],
+      "ratings": {
+        "overall_rating": 4.6,
+        "total_ratings": 209
+      },
+      "reviews": {
+        "positive": {
+          "text": "I suffered most excruciating pain with my tooth for more than 2 weeks. I called Dr Farah Seedat. Her friendly receptionist called and gave me an emergency time slot the same day. I was booked with Dr Amanda Shih and her assistant Savanah. What an amazing team and like Dr Shih explained 5-10 days all healed with swelling gone. Gona recommend this team to my friends and family Thanks KDC",
+          "display": "I suffered most excruciating pain with my tooth for more than 2 weeks. I called Dr Farah Seedat. Her friendly receptionist called and gave me an em... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Kromboom Dental Centre provides emergency dental services. Patients at this practice are responsible for settling their bills upfront and then seeking reimbursement from their medical aid provider. While offering competitive Medical Aid rates for most treatments, they also provide specialized procedures like implants and crown & bridgework for an additional fee."
+    },
+    {
+      "id": "13",
+      "name": "Dr Nadya Abedian Dental & Aesthetics",
+      "slug": "dr-nadya-abedian-dental-aesthetics",
+      "contact": {
+        "phone": 27214349211,
+        "website": "https://www.drnadyaabedian.co.za"
+      },
+      "location": {
+        "address": "6th Floor) 603, Sea Point Medical Centre, 1 Kloof Rd, Sea Point, Cape Town, 8005, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8005
+      },
+      "services": [
+        "surgical"
+      ],
+      "ratings": {
+        "overall_rating": 5.0,
+        "total_ratings": 137
+      },
+      "reviews": {
+        "positive": {
+          "text": "Nadya is the best dentist that has treated me. I had neglected my teeth for 3 years due to serious health issues and she did my entire dental work in 2 days . No pain during the surgery",
+          "display": "Nadya is the best dentist that has treated me. I had neglected my teeth for 3 years due to serious health issues and she did my entire dental work ... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Dr Nadya Abedian Dental & Aesthetics offers surgical services with a focus on patient care and safety. Dr. Abedian's practice prioritizes high-quality services, patient comfort, and safety measures, including temperature checks and enhanced PPE to ensure a better dental experience. Trusted by patients for her professional approach and exceptional results, Dr. Abedian provides personalized care to address dental needs effectively, earning praise for creating beautiful smiles and restoring faith in dentistry."
+    },
+    {
+      "id": "14",
+      "name": "Cape Dental - Dr Rihana Roshan & Associates",
+      "slug": "cape-dental-dr-rihana-roshan-associates",
+      "contact": {
+        "phone": 27214397290,
+        "website": "http://www.capedental.co.za"
+      },
+      "location": {
+        "address": "6 Main Rd, Three Anchor Bay, Cape Town, 8005, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8005
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 2.3,
+        "total_ratings": 15
+      },
+      "reviews": {
+        "positive": {
+          "text": "This must be a different practice! The Dr Roshan I go to in Three Anchor Bay is amazing! I found her 5 years ago and she has worked on my whole family. Her dental work is quick and efficient, my teeth look as best they can, and she's given me great dental advice at really affordable prices. I agree her reception staff could be friendlier, but they're not rude. You must have caught them on a bad day. I'm leaving Sea Point soon and I'm sorry to have to find another dentist, because I doubt I'll find her equal!",
+          "display": "This must be a different practice! The Dr Roshan I go to in Three Anchor Bay is amazing! I found her 5 years ago and she has worked on my whole fam... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "This \"practice\" is extremely unprofessional. From the receptionist, to the \"manager\" to the dentist herself. My 88 year old mother lost one of her front teeth. The dentist, Rihanna, replaced it with another one, tip of the range. The problem is that it would only last in my poor mother's mouth for 2 days and it would fall off again. My attempts to get an appointment were super frustrating. The \"manager\" never returned my calls and when I finally got hold of him one day, he said he was in a meeting and would call me back. He didn't. I would have to personally attend at the rooms to make the appointment to rectify the situation. This happened 3x. Eventually I went to another dentist who has had to re-do the whole procedure. This time, correctly. In addition, the dentist's room is dark and rather dingy. The chair looks as if it was bought at an auction a few decades ago. I got the sense that the whole place needed a good spring clean. All in all, a very unpleasant experience, mostly for my mother.",
+          "display": "This \"practice\" is extremely unprofessional. From the receptionist, to the \"manager\" to the dentist herself. My 88 year old mother lost one of her... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Located in Cape Town, Cape Dental - Dr Rihana Roshan & Associates is a trusted choice for those seeking a Medical Aid Dentist. They accommodate various medical aids for dental procedures and also cater to tourists in need of emergency dental care while visiting the city. Operating Monday to Saturday, their practice ensures accessibility and quality service for all patients."
+    },
+    {
+      "id": "15",
+      "name": "Dental Studio Waterfront",
+      "slug": "dental-studio-waterfront",
+      "contact": {
+        "phone": 27214212971,
+        "website": "http://www.dentalstudio.co.za"
+      },
+      "location": {
+        "address": "Unit 004, Portswood Ridge, Level P3, Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8002
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 5.0,
+        "total_ratings": 42
+      },
+      "reviews": {
+        "positive": {
+          "text": "Dr. Nico Botha my dentist for 10+ years. He is amazing dentist and great personality. Usually people stressed to go do dentist - I feel I'm distressed after visit to him- my teeth are fixed, fair price and very gentle approach and 100% quality of course. He is definitely love his work! And he told so 😁 (And when procedure was too pricey for me - there was a payment plan created). Very friendly and accommodating personal! as week. His Location is also very central and great - you can have coffee and pastries or meal at the V&Waterfront or just walk around at the harbour before or after the appointment . I'm very happy I've been introduced to Dr Nico by my friend some time ago. That time I was crying from pain and he fixed it. I will recommend him any time to everyone I know",
+          "display": "Dr. Nico Botha my dentist for 10+ years. He is amazing dentist and great personality. Usually people stressed to go do dentist - I feel I'm distres... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Cape Town, Dental Studio Waterfront, led by Dr. Nico Botha, is renowned for its innovative and advanced approach to dentistry. Specializing in cosmetic dentistry, Dr. Botha uses cutting-edge technology to enhance smiles and boost self-confidence in just five days. Patients praise the practice for restoring their smiles and confidence, making Dental Studio Waterfront a top choice for comprehensive dental care."
+    },
+    {
+      "id": "16",
+      "name": "Dental & Ortho - CBD, Cape Town",
+      "slug": "dental-ortho-cbd-cape-town",
+      "contact": {
+        "phone": 27214186624,
+        "website": "http://dentalandortho.co.za"
+      },
+      "location": {
+        "address": "Unit 2, Outside Platform, City Concourse, 21 Adderley St, Cape Town City Centre, Cape Town, 8000, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8000
+      },
+      "services": [
+        "surgical"
+      ],
+      "ratings": {
+        "overall_rating": 4.4,
+        "total_ratings": 44
+      },
+      "reviews": {
+        "positive": {
+          "text": "From reception the lady so welcoming. Friendly staff the lady that was assisting the doctor they phenomenal. This is definitely my new dentist *****",
+          "display": "From reception the lady so welcoming. Friendly staff the lady that was assisting the doctor they phenomenal. This is definitely my new dentist ***** [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "Worst dentist/ortho ever and the worst service ever. The staff at the branch in Vangate once accused me of stealing their phones when I had gone there for a tooth extraction, they took me to a back office and cross questioned me about something I had no idea about. They told me they would go through their cameras thinking I would be scared, they said they would get back to me and never did because I clearly am not a thief, I ended up switching branches. They are disgusting. Zero communication. They lost my folder and had no idea how much I owe to them, they were even questioning whether I am their patient but I've been with them for 3 years. They basically gathered whatever they could find and gave me a higher amount than what I'm supposed to be owing. I have gone there 3 times because they gave me the incorrect date and times for my appointment. Just today I was supposed to go there (Cape town branch) and they told me that it's late and my doctor has left and next time I must come before 2pm yet THEY booked me for 4:30pm. I absolutely cannot wait to be done with them.",
+          "display": "Worst dentist/ortho ever and the worst service ever. The staff at the branch in Vangate once accused me of stealing their phones when I had gone th... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Located in Cape Town, Cape Town, Dental & Ortho - CBD offers surgical services as part of their comprehensive dental care. Their friendly team provides thorough consultations with X-rays, along with treatments such as fillings, extractions, root canal therapy, whitening, veneers, crowns, dentures, bridges, and braces for both youth and adults. Restore your smile and confidence with their advanced procedures and orthodontic solutions."
+    },
+    {
+      "id": "17",
+      "name": "Dental Artz Clinic.(Dr. Lees)",
+      "slug": "dental-artz-clinic-dr-lees",
+      "contact": {
+        "phone": 27681580881,
+        "website": ""
+      },
+      "location": {
+        "address": "Centre, 1 Mediterranean St, Cape Town City Centre, Cape Town, 8000, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8000
+      },
+      "services": [
+        "pediatric"
+      ],
+      "ratings": {
+        "overall_rating": 4.8,
+        "total_ratings": 18
+      },
+      "reviews": {
+        "positive": {
+          "text": "Been to number of dentists in my years ,had many bad experiences,dislike going to dentists but Dr Lee is professional and has the best bedside manner. I had difficult broken teeth and Dr Lee removed it with skill. Children will feel safe with Dr Lee because of his caring nature. He has a practice in Bellville also has a professional assistant. Don't be in pain! see Dr Lee and feel great! no fear! This is one dentist I have no problem recommending.",
+          "display": "Been to number of dentists in my years ,had many bad experiences,dislike going to dentists but Dr Lee is professional and has the best bedside mann... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Cape Town, Dental Artz Clinic (Dr. Lees) is a premier dental practice specializing in pediatric dentistry. Dr. Lees and his experienced team provide gentle and comprehensive dental care for children, ensuring a positive and comfortable experience. Visit Dental Artz Clinic for top-notch pediatric dental services in Cape Town."
+    },
+    {
+      "id": "18",
+      "name": "Dr Nitus Van Tonder",
+      "slug": "dr-nitus-van-tonder",
+      "contact": {
+        "phone": 27828528048,
+        "website": "https://www.nitusdentist.co.za"
+      },
+      "location": {
+        "address": "Unit 5, 10 Pepper St, Cape Town City Centre, Cape Town, 8001, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 8001
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.9,
+        "total_ratings": 48
+      },
+      "reviews": {
+        "positive": {
+          "text": "I highly recommend Dr N Van Tonder to anyone in need of dental care. His expertise, professionalism, and commitment to patient comfort makes him stand out in the field. I will definitely be returning for future dental needs. We are a family of 4 and he treats all of us.",
+          "display": "I highly recommend Dr N Van Tonder to anyone in need of dental care. His expertise, professionalism, and commitment to patient comfort makes him st... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "",
+          "display": "",
+          "rating": null
+        }
+      },
+      "description": "Located in Cape Town, Cape Town, Dr. Nitus Van Tonder's practice is dedicated to helping patients achieve their dream smiles with high-quality, custom cosmetic dentistry services such as crowns, veneers, whitening, and bonding. The friendly team focuses on creating a welcoming, judgment-free environment to ease dental anxiety and provide compassionate care for patients of all ages, ensuring a comfortable and relaxing experience. From general dentistry services like examinations and cleanings to specialized kids' dentistry, Dr. Nitus Van Tonder's practice prioritizes patient satisfaction and dental health to help everyone smile confidently."
+    },
+    {
+      "id": "19",
+      "name": "Matrix Dental Specialists Cape Town",
+      "slug": "matrix-dental-specialists-cape-town",
+      "contact": {
+        "phone": 27211105764,
+        "website": "http://matrixdental.co.za"
+      },
+      "location": {
+        "address": "Showroom A, The Matrix Building, 8 Bridgeway, Century City, Cape Town, 7441, South Africa",
+        "city": "Cape Town",
+        "neighborhood": "Cape Town",
+        "postal_code": 7441
+      },
+      "services": [
+        "general"
+      ],
+      "ratings": {
+        "overall_rating": 4.5,
+        "total_ratings": 71
+      },
+      "reviews": {
+        "positive": {
+          "text": "Shukran/thank you so so much to Dr. Mayet and Aasiyah 💕 I've never enjoyed a dentist visit until now! Everyone is so kind at Matrix Dental, and I can not recommend them enough! Edit: Finally finished all the treatments that were needed, and all I can say is... I wish there were more words in the English language to accurately describe how incredible everyone at Matrix Dental is. Both Dr. Mayet and Dr. Bhamjee are incredible doctors. Kind, patient, gentle, and super friendly. I am truly grateful for the incredible treatment I received 😊 I will never stop recommending Matrix Dental!",
+          "display": "Shukran/thank you so so much to Dr. Mayet and Aasiyah 💕 I've never enjoyed a dentist visit until now! Everyone is so kind at Matrix Dental, and I c... [5★]",
+          "rating": 5.0
+        },
+        "negative": {
+          "text": "I'm extremely disappointed with the communication from this dental practice. After finding Dr. Mayet and starting my smile correction process, I've experienced unacceptable errors. Twice, I've arrived at the practice only to discover that my appointment had been mixed up with someone else's. Although Dr. Barnard apologized and assured me it wouldn't happen again, it did. My most recent appointment was cancelled without notification - no email explaining, no call. I wasted my day and cleared all of my appointments. The receptionist seems perpetually confused and doesn't address these issues with urgency. A simple 'sorry' isn't enough, especially when it's not backed by action. I'm disheartened because I was excited to work with Dr. Mayet, but now I'm forced to start over and find a new practice. Reliable communication is crucial in healthcare, and this practice has failed to deliver.",
+          "display": "I'm extremely disappointed with the communication from this dental practice. After finding Dr. Mayet and starting my smile correction process, I've... [1.0★]",
+          "rating": 1.0
+        }
+      },
+      "description": "Matrix Dental Specialists in Cape Town offers a comprehensive range of ethical and holistic dental care services provided by a team of board-certified specialists. From preventative to reconstructive dentistry, their multidisciplinary approach ensures a seamless and cost-effective treatment experience. With a focus on quality and individualized care, they prioritize your smile as their own."
+    }
+  ]
+}
